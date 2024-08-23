@@ -1,7 +1,13 @@
 
 
-# 💫 About Me:
-👩‍💻 I'm a Software Engineer in process | Junior Frontend Developer and Data Science with a bachelor's degree in Business Administration and experience in Project Management ✨<br><br>💡 Passionate about technology, project management, and STEM communicator, I love creating accessible designs while contributing to building tools to solve social and development problems through technology.<br><br>🫧 Experience in frontend development using HTML, CSS, JavaScript, MySql, Python, mobile app development in SAP, and much more.<br><br>📌 Currently, I'm a STEM communicator and content creator for social media within Cápsula Channel. I'm part of the Junior Achievement Mexico network in the communications area, where I support the goals of inspiring and educating young people in entrepreneurship and leadership. Additionally, I'm a member of the coordination team of the Oratory and Debate Club at the UNAM Law School, in the administrative and communications area. Here, resources, workshops, and more are shared to foster the development of the interested community.<br><br>🖇️ Connect with me to explore collaborations in software development and project management!
+# 🌊 About Me:
+👩‍💻 I'm a Software Engineer in process | Junior Frontend Developer and Data Science with a bachelor's degree in Business Administration and experience in Project Management ✨
+
+💡 Passionate about technology, science, business. I love contribute to building tools to solve social and development problems through technology.
+
+🫧 Experience in frontend development using HTML, CSS, JavaScript, MySql, Python, mobile app development in SAP, and much more.
+
+🖇️ Connect with me to explore collaborations in software development and project management!
 
 
 ## 🌐 Socials:
