@@ -5,7 +5,7 @@
 
 💡 Passionate about technology, science, business. I love contribute to building tools to solve social and development problems through technology.
 
-🫧 Experience in frontend development using HTML, CSS, JavaScript, MySql, Python, mobile app development in SAP, and much more.
+🫧 Experience in frontend development using CSS, JavaScript, MySql, Python, mobile app development in SAP, and much more.
 
 🖇️ Connect with me to explore collaborations!
 
