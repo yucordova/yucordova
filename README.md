@@ -1,7 +1,7 @@
 
 
 # 🌊 About Me:
-👩‍💻 I'm a Data Science with a bachelor's degree in Business Administration and experience in Project Management ✨
+👩‍💻 I'm a Data Scientist with a bachelor's degree in Business Administration and experience in Project Management ✨
 
 💡 Passionate about technology, science, business. I love contribute to building tools to solve social and development problems through technology.
 
