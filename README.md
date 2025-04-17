@@ -1,13 +1,12 @@
 
 
 # 🌊 About Me:
-👩‍💻 I'm a Data Scientist with a bachelor's degree in Business Administration and experience in Project Management ✨
+👩‍💻 experienced in leading technological and strategic projects in the corporate sector. I bridge analytical expertise with leadership skills to optimize processes and drive data-driven decision-making.
 
-💡 Passionate about technology, science, business. I love contribute to building tools to solve social and development problems through technology.
+Currently, I run my own consulting firm, helping businesses tackle operational and commercial challenges through scalable, practical solutions. My goal is to act as a strategic partner for organizations, fostering growth through innovation and digital transformation.
 
-🫧 Experience in frontend development using CSS, JavaScript, MySql, Python, mobile app development in SAP, and much more.
-
-🖇️ Connect with me to explore collaborations!
+🖇️ Let’s connect!
+Open to collaborations, challenging projects, and opportunities where I can contribute my analytical vision and strategic leadership.
 
  
 
